@@ -1,2 +1,38 @@
 # python-dojo
-Code written by participants of the Python Dojo on the 2018 Winter Tech Forum
+
+Code written by participants of the Python Dojo on the 2018 Winter Tech Forum in Crested Butte, Colorado.
+
+The `runes.py` program lets you search Unicode emojis and characters
+
+```
+$ ./runes.py cat eyes
+😸 GRINNING CAT FACE WITH SMILING EYES
+😻 SMILING CAT FACE WITH HEART-SHAPED EYES
+😽 KISSING CAT FACE WITH CLOSED EYES
+
+$ ./runes.py file
+␜ SYMBOL FOR FILE SEPARATOR
+📁 FILE FOLDER
+📂 OPEN FILE FOLDER
+🗃 CARD FILE BOX
+🗄 FILE CABINET
+
+$ ./runes.py die
+⚀ DIE FACE-1
+⚁ DIE FACE-2
+⚂ DIE FACE-3
+⚃ DIE FACE-4
+⚄ DIE FACE-5
+⚅ DIE FACE-6
+ꄅ YI SYLLABLE DIE
+🎲 GAME DIE
+
+$ ./runes.py cyrillic e
+Э CYRILLIC CAPITAL LETTER E
+э CYRILLIC SMALL LETTER E
+Ѥ CYRILLIC CAPITAL LETTER IOTIFIED E
+ѥ CYRILLIC SMALL LETTER IOTIFIED E
+Ӭ CYRILLIC CAPITAL LETTER E WITH DIAERESIS
+ӭ CYRILLIC SMALL LETTER E WITH DIAERESIS
+ꚟ COMBINING CYRILLIC LETTER IOTIFIED E
+```
